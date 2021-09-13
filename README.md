@@ -9,4 +9,7 @@ Refactoring the existing code to meet a set of standards.
 ## Approach
 
 1. Assessed layout with screenshots
-   ![The San Juan Mountains are beautiful!](https://github.com/FloydCV/horiseon-marketing-agency/blob/dev/assets/read-me-files/horisen-layout-ss01.png "San Juan Mountains")
+   ![Horisen Layout](/assets/read-me-files/horisen-layout-ss01.png "Horisen layout image")
+
+2. Added comments on HTML to highight sections.
+   ![Horisen Comments](/assets/read-me-files/horisen-layout-ss01.png "horisen-html-comments")
