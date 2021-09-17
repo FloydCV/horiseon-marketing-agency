@@ -189,6 +189,10 @@ p {
   font-size: 36px;
 }
 
+.footer h4 {
+  font-size: 10px;
+}
+
 .footer {
   padding: 30px;
   clear: both;
