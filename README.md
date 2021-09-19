@@ -4,7 +4,7 @@ Refactoring the existing code to meet a set of standards.
 
 ## GitHub Pages
 
-[Link 01: Horiseon Marketing Agency ](https://github.com/FloydCV/horiseon-marketing-agency)
+[Link 01: Horiseon Marketing Agency ](https://floydcv.github.io/horiseon-marketing-agency/)
 
 ## Approach
 
