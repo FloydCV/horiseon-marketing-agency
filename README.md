@@ -16,5 +16,9 @@ Refactoring the existing code to meet a set of standards.
 
    ## Screenshot of final layout
 
-   Assessed layout with screenshots
+3. Assessed layout with screenshots
    ![Horisen Layout](/assets/read-me-files/horisen-layout-ss02.png "Horisen layout image screenshot")
+
+- Comments added
+- Semantics have been added
+- CSS updated
